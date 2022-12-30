@@ -38,3 +38,7 @@ next-env.d.ts
 # cypress
 cypress/videos
 cypress/screenshots
+
+
+# Storybook
+storybook-static
