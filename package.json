@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "cypress": "cypress open",
+    "e2e": "cypress run"
   },
   "dependencies": {
     "@next/font": "13.1.1",
