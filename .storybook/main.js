@@ -6,7 +6,6 @@ module.exports = {
     "@storybook/addon-essentials",
     "@storybook/addon-interactions",
     "@storybook/addon-postcss",
-    "@storybook/addon-knobs",
   ],
   framework: {
     name: "@storybook/nextjs",
